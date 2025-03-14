@@ -1,0 +1,3 @@
+mkdir musaafir-backend && cd musaafir-backend
+npm init -y
+npm install express mongoose dotenv cors bcryptjs jsonwebtoken
