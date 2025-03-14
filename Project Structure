@@ -1,0 +1,14 @@
+musaafir/
+│── backend/               
+│   ├── models/           
+│   ├── routes/           
+│   ├── config/            
+│   ├── server.js        
+│── frontend/             
+│   ├── src/              
+│   │   ├── components/    
+│   │   ├── pages/      
+│   │   ├── App.js         
+│   │   ├── index.js       
+│── package.json          
+│── README.md              
